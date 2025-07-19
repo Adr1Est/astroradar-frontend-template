@@ -1,0 +1,63 @@
+.card {
+  background: rgba(54, 5, 109, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  padding: 30px;
+  width: 350px;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  box-shadow: 0 0 20px rgba(218, 211, 211, 0.5);
+}
+
+
+
+
+
+.input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 0px;
+  border-color:gray;
+  border-radius: 8px;
+  background: #1c0b33;
+  color: white;
+ border: 1px solid rgba(255, 255, 255, 0.5);
+ box-shadow: 0 0 20px rgba(17, 17, 17, 0.5);
+ backdrop-filter: blur(8px);
+}
+
+
+
+
+.button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(to right, #29084e, #040e66);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 20px;
+  box-shadow: 0 0 20px rgba(214, 214, 247, 0.7), 
+              0 0 10px rgba(75, 72, 74, 0.3); 
+  
+
+}
+.Sbutton {
+  margin-top: 20px;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(to right, #6b1752, #a32098);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 0px;
+  box-shadow: 0 0 20px rgba(51, 50, 50, 0.7), 
+              0 0 10px rgba(110, 107, 110, 0.808); 
+}
+
+
+
